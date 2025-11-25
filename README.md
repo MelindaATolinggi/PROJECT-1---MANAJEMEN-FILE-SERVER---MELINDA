@@ -1,6 +1,6 @@
 # PROJECT-1---MANAJEMEN-FILE-SERVER---MELINDA
 
-# LANGKAH 1 BUAT STRUKTUR
+# LANGKAH 1 - BUAT STRUKTUR
 
 # Masuk ke Direktori Home :
 [Deskripsi gambar] (https://drive.google.com/file/d/1MbWZ_KZWqIGG9xw6thTVrw4gVjQ7OJ6A/view?usp=sharing)
